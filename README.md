@@ -268,7 +268,7 @@ This Business Intelligence solution enables organizations to:
 
 ## Home Dashboard
 
-![Home Dashboard](images/home.png)
+![Home Dashboard](https://github.com/ClimateEngine/Business-Insights-360/blob/main/Home_Business_Insights%20360.png)
 
 ---
 
