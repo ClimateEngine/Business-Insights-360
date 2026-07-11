@@ -266,39 +266,33 @@ This Business Intelligence solution enables organizations to:
 
 # 🖼 Dashboard Preview
 
-## Home Dashboard
-
-![Home Dashboard](https://github.com/ClimateEngine/Business-Insights-360/blob/main/Home_Business_Insights%20360.png)
-
----
-
 ## Finance View
 
-![Finance Dashboard](images/finance.png)
+![Finance Dashboard](https://github.com/ClimateEngine/Business-Insights-360/blob/main/Finance_Business_Insights%20360.png)
 
 ---
 
 ## Sales View
 
-![Sales Dashboard](images/sales.png)
+![Sales Dashboard](https://github.com/ClimateEngine/Business-Insights-360/blob/main/Sales_Business_Insights%20360.png)
 
 ---
 
 ## Marketing View
 
-![Marketing Dashboard](images/marketing.png)
+![Marketing Dashboard](https://github.com/ClimateEngine/Business-Insights-360/blob/main/Marketing_Business_Insights%20360.png)
 
 ---
 
 ## Supply Chain View
 
-![Supply Chain Dashboard](images/supply_chain.png)
+![Supply Chain Dashboard](https://github.com/ClimateEngine/Business-Insights-360/blob/main/Supply%20Chain_Business_Insights%20360.png)
 
 ---
 
 ## Executive View
 
-![Executive Dashboard](images/executive.png)
+![Executive Dashboard](https://github.com/ClimateEngine/Business-Insights-360/blob/main/Executive_Business_Insights%20360.png)
 
 ---
 
